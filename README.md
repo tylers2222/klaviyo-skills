@@ -2,7 +2,7 @@
 
 A collection of open-source [Claude Code](https://claude.com/claude-code) skills for designing and building email marketing campaigns in Klaviyo.
 
-Built by [@tylers2222](https://github.com/tylers2222) — a marketer who got tired of vanilla email templates and decided to teach Claude how to build components that actually sell.
+Built by [@tylers2222](https://github.com/tylers2222) — a programmer who got tired of vanilla email templates and decided to teach Claude how to build components that actually sell.
 
 ## What Are Skills?
 
